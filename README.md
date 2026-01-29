@@ -44,7 +44,7 @@ Spring Boot
 Java Servlet/JSP
 PHP
 
-Firebase
+Database
 MySQL
 
 
